@@ -1,5 +1,5 @@
 {
-  "name": "TrickTrick/laravel-json-schema-validate-fork",
+  "name": "tricktrick/laravel-json-schema-validate-fork",
   "description": "json schema for request and response",
   "keywords": ["laravel", "json schema", "api"],
   "license": "MIT",
