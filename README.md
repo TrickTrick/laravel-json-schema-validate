@@ -1,12 +1,14 @@
 # Laravel JsonSchema Validate
 
+It is fork of https://github.com/kojirock5260/laravel-json-schema-validate
+Aimed on laravel ^7.0 only
 
 JsonSchema Validate For Laravel Request And Response 
 
 ## Installation
 
 ```bash
-composer require kojirock5260/laravel-json-schema-validate
+composer require tricktrick/laravel-json-schema-validate
 ```
 
 ```bash
