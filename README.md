@@ -24,7 +24,7 @@ Please describe
 ```php
     protected $routeMiddleware = [
         ...
-        'json_schema' => \Kojirock5260\Middleware\JsonSchemaValidate::class,
+        'json_schema' => Kojirock5260\JsonSchemaValidate\Middleware\JsonSchemaValidator::class,
     ];
 ```
 
